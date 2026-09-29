@@ -1,0 +1,1 @@
+print("Environment ready. Day 2 complete.")
